@@ -17,4 +17,4 @@ Leia na ordem abaixo. Cada documento leva ~20 minutos.
 
 ---
 
-> 💬 **Dúvidas?** Fala com [@PiresEdu](mailto:PiresEdu)
+> 💬 **Dúvidas?** Fala com [@PiresEdu](https://github.com/PiresEdu)
